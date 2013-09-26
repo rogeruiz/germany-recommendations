@@ -1,0 +1,8 @@
+{{#cities}}
+ <ul class="nav">
+    <li><h4>{{readable_name}}</h4></li>
+    {{#places}}
+    <li><a data-coffin="click" href="#{{raw_name}}">{{readable_name}}</a></li>
+    {{/places}}
+</ul>
+{{/cities}}

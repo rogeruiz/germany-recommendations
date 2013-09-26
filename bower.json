@@ -2,6 +2,8 @@
   "name": "northwest-recommendations",
   "version": "0.1.0",
   "devDependencies": {
-    "html5-mobile-boilerplate": "~4.1.0"
+    "html5-mobile-boilerplate": "~4.1.0",
+    "hogan": "~3.0.0",
+    "jquery": "~2.0.3"
   }
 }
