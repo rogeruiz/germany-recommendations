@@ -8,7 +8,7 @@
           "raw_name": "cantina-orange",
           "readable_name": "Cantina Orange",
           "raw_address": "52.492567,13.397237",
-          "readable_address": "Mittenwalder Straße 13, Berlin, Berlin 10961",
+          "readable_address": "Mittenwalder Straße 13 Berlin 10961",
           "website": "https://foursquare.com/v/cantina-orange/4bc381122a89ef3b221ff588",
           "description": "This place was open near the Airbnb that I stayed at. I really liked it, but it's nothing that great. It's open late, and the woman who operates it is really nice and will give you plenty of advice about the neighborhood."
         },
@@ -16,7 +16,7 @@
           "raw_name": "alexanderplatz",
           "readable_name": "Alexanderplatz",
           "raw_address": "52.521718,13.41215",
-          "readable_address": "Alexanderplatz, Berlin, Berlin 10179",
+          "readable_address": "Alexanderplatz Berlin 10179",
           "website": "http://www.berlin.de/",
           "description": "This is the main square in Berlin. There are plenty of places to walk to from here. "
         },
@@ -24,7 +24,7 @@
           "raw_name": "white-trash-fast-food",
           "readable_name": "White Trash Fast Food",
           "raw_address": "52.529662,13.410391",
-          "readable_address": "Schönhauser Allee 6/7, Berlin, 10119",
+          "readable_address": "Schönhauser Allee 6/7 Berlin, 10119",
           "raw_telephone": "+493050348668",
           "readable_telephone": "+49 30 50348668",
           "website": "http://www.whitetrashfastfood.com/",
@@ -47,6 +47,100 @@
           "readable_address": "Sonnenallee 35, 12045 Berlin, Germany",
           "website": "https://foursquare.com/v/café-espera/4fe1c467e4b0ec3854e2afc1",
           "description": "This is a nice coffeeshop to go to when in this neighborhood. Neukölln is a great neighborhood for day and night life in Berlin."
+        },
+        {
+          "raw_name": "cuccuma-espresso-focaccia",
+          "readable_name": "Cuccuma Espresso & Focaccia",
+          "raw_address": "52.490509,13.394308",
+          "readable_address": "Zossener Straße 34 (Riemannstraße) Berlin 12629",
+          "raw_telephone": "493061625360",
+          "readable_telephone": "+49 30 61625360",
+          "website": "http://cuccuma.de/",
+          "description": "This place was really good to get coffee and breakfast in the morning. The locals who work the shop are from all over the world. They're very friendly and will give you recommendations on the night life if you ask. There's also a cool record shop next door."
+        },
+        {
+          "raw_name": "eight-mm-bar",
+          "readable_name": "8mm Bar",
+          "raw_address": "52.530928,13.412558",
+          "readable_address": "Schönhauser Allee 12, 10119 Berlin, Germany",
+          "website": "https://foursquare.com/v/8mm-bar/4adcda79f964a5209f4621e3",
+          "description": "They have local artist perform sometimes. If you're in Alexanderplatz then this place is pretty close. It's a locals bar."
+        },
+        {
+          "raw_name": "superskull-showroom",
+          "readable_name": "Superskull Showroom",
+          "raw_address": "52.492606,13.396615",
+          "readable_address": "Mittenwalder Straße 13 Berlin, Germany",
+          "website": "http://www.superskull.de/en/index.html",
+          "description": "This place is awesome. They have all sorts of Mexican memorabilia for sale. I bought a little China money cat wearing a lucador mask here. It's awesome. Check their website for their hours as this is just a showroom and it may not be open."
+        },
+        {
+          "raw_name": "ritter-sport-bunte-schokowelt",
+          "readable_name": "Ritter Sport Bunte Schokowelt",
+          "raw_address": "52.515052,13.390639",
+          "readable_address": "Französische Straße 46, 10117 Berlin, Germany",
+          "raw_telephone": "4930200950830",
+          "readable_telephone": "+49 30 200950830",
+          "website": "http://www.ritter-sport.de/#/de_DE/berlin/",
+          "description": "This is the Ritter Sport chocolate museum. It's a tourist trap, but has loads of chocolates to buy. It's also near some touristic parts of Berlin."
+        }
+      ]
+    },
+    {
+      "raw_name": "hamburg",
+      "readable_name": "Hamburg",
+      "places": [
+        {
+          "raw_name": "hate-harry",
+          "readable_name": "Hate Harry",
+          "raw_address": "53.557729,9.964213",
+          "readable_address": "Neuer Pferdemarkt, 20359 Hamburg, Germany",
+          "raw_telephone": "494041355924",
+          "readable_telephone": "+49 40 41355924",
+          "website": "https://foursquare.com/v/hate-harry/4b884bacf964a52054ed31e3",
+          "description": "I ate food at this place and was happy with the quality of it. It's a typical Hamburg hangout for late-night food."
+        },
+        {
+          "raw_name": "cafe-may",
+          "readable_name": "Café May",
+          "raw_address": "53.55052,9.96269",
+          "readable_address": "Seilerstraße 46, 20359 Hamburg, Germany",
+          "description": "A simple little coffeeshop near all the nightclubs in Hamburg."
+        },
+        {
+          "raw_name": "uebel-gefahrlich",
+          "readable_name": "Uebel & Gefährlich",
+          "raw_address": "53.557047,9.969846",
+          "readable_address": "Feldstraße 66e, 20359 Hamburg, Germany",
+          "raw_telephone": "4915738276469",
+          "readable_telephone": "+49 1573 8276469",
+          "website": "http://www.uebelundgefaehrlich.com/",
+          "description": "This nightclub is pretty dope. They have a coat check in the back, which I higly recommend. Hamburg is party central and dancing is currency. I had fun at this place until 7 am and was surprised by the sunshine when I left!"
+        },
+        {
+          "raw_name": "prinzenbar",
+          "readable_name": "Prinzenbar",
+          "raw_address": "53.548748,9.96475",
+          "readable_address": "Kastanienallee 20, 20359 Hamburg, Germany",
+          "raw_telephone": "49403178830",
+          "readable_telephone": "+49 40 3178830",
+          "website": "http://www.prinzenbar.net/",
+          "description": "This place is accessible through the basement of Docks. Docks is a huge nightclub that opens at 10pm. Prinzenbar opens at 10am. 24 hour dance party."
+        },
+        {
+          "raw_name": "docks",
+          "readable_name": "Docks",
+          "raw_address": "53.54929,9.964503",
+          "readable_address": "Spielbudenplatz 18, 20359 Hamburg, Germany",
+          "website": "http://www.docks.de",
+          "description": "This place is accessible through the basement of Prinzenbar. Prinzenbar is a small nightclub that opens at 10am. Docks opens at 10pm. Get it? Enjoy."
+        },
+        {
+          "raw_name": "petisco",
+          "readable_name": "Petisco",
+          "raw_address": "53.561973,9.962336",
+          "readable_address": "Schulterblatt 72-78, 20357 Hamburg, Germany",
+          "description": "This is a local restaurant with outdoor seating. It's surrounded by other restaurants on the block as well in case you don't like anything on the menu."
         }
       ]
     }
