@@ -6,8 +6,12 @@
             <a href="#{{raw_name}}"><h3>{{readable_name}} <span class="link-back">∞</span></h3></a>
         </header>
         <p class="address"><a href="http://maps.google.com/maps?daddr={{raw_address}}" target="_blank" title="">{{readable_address}}</a></p>
+        {{#raw_telephone}}
         <p class="telephone"><a href="tel:+{{raw_telephone}}">{{readable_telephone}}</a></p>
+        {{/raw_telephone}}
+        {{#website}}
         <p class="site"><a href="{{website}}" target="_blank" title="">website ➤</a></p>
+        {{/website}}
         <p>{{description}}</p>
     </section>
     {{/places}}
