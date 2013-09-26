@@ -1,18 +1,52 @@
 {
   "cities": [
     {
-      "raw_name": "seattle",
-      "readable_name": "Seattle",
+      "raw_name": "berlin",
+      "readable_name": "Berlin",
       "places": [
         {
-          "raw_name": "mecca-cafe",
-          "readable_name": "Mecca Cafe",
-          "raw_address": "47.62412404584618,-122.35649550082233",
-          "readable_address": "526 QUEEN ANNE AVE N, SEATTLE, WA 98109",
-          "raw_telephone": "+12062859728",
-          "readable_telephone": "(206) 285-9728",
-          "website": "http://www.meccacafe.com/",
-          "description": "A typical diner place, with a dance / bar area in the back. I ate breakfast at this place almost everyday. The night scene is pretty good around here too. This neighborhood is considered South Queen Anne and is near the space needle."
+          "raw_name": "cantina-orange",
+          "readable_name": "Cantina Orange",
+          "raw_address": "52.492567,13.397237",
+          "readable_address": "Mittenwalder Straße 13, Berlin, Berlin 10961",
+          "website": "https://foursquare.com/v/cantina-orange/4bc381122a89ef3b221ff588",
+          "description": "This place was open near the Airbnb that I stayed at. I really liked it, but it's nothing that great. It's open late, and the woman who operates it is really nice and will give you plenty of advice about the neighborhood."
+        },
+        {
+          "raw_name": "alexanderplatz",
+          "readable_name": "Alexanderplatz",
+          "raw_address": "52.521718,13.41215",
+          "readable_address": "Alexanderplatz, Berlin, Berlin 10179",
+          "website": "http://www.berlin.de/",
+          "description": "This is the main square in Berlin. There are plenty of places to walk to from here. "
+        },
+        {
+          "raw_name": "white-trash-fast-food",
+          "readable_name": "White Trash Fast Food",
+          "raw_address": "52.529662,13.410391",
+          "readable_address": "Schönhauser Allee 6/7, Berlin, 10119",
+          "raw_telephone": "+493050348668",
+          "readable_telephone": "+49 30 50348668",
+          "website": "http://www.whitetrashfastfood.com/",
+          "description": "This place was awesome. Tattoo shop and venue in the basement. Restaurant on top. If you're looking for American food and a weird vibe, this place is it. It's within walking distance of Alexanderplatz. Also, they have an octopus burger."
+        },
+        {
+          "raw_name": "aka-berlin",
+          "readable_name": "AKA Berlin",
+          "raw_address": "52.491097,13.425604",
+          "readable_address": "Pflügerstraße 6, 12047 Berlin, Germany",
+          "raw_telephone": "493056735422",
+          "readable_telephone": "+49 30 56735422",
+          "website": "http://akaberlin.com",
+          "description": "I got a cool little banger at this shop. I highly recommend it, but you need to make an appointment via the website. Some of the most famous tattooers from around the world tattoo out of this shop. It's well worth the expense if you're a tattoo collector. ☺"
+        },
+        {
+          "raw_name": "cafe-espera",
+          "readable_name": "Café Espera",
+          "raw_address": "52.486191,13.430851",
+          "readable_address": "Sonnenallee 35, 12045 Berlin, Germany",
+          "website": "https://foursquare.com/v/café-espera/4fe1c467e4b0ec3854e2afc1",
+          "description": "This is a nice coffeeshop to go to when in this neighborhood. Neukölln is a great neighborhood for day and night life in Berlin."
         }
       ]
     }
