@@ -1,6 +1,6 @@
-NXNW
+Deutsch
 ====
 
-#### North by Northwest
+#### Deutsch Recommendations
 
-A simple list of places I enjoyed in the American Northwest.
+A simple list of places I enjoyed in Germany.
